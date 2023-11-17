@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harmehar Kaur</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">I am a highly motivated and versatile computer science and engineering student in my 4th year of B.Tech studies. My educational journey has equipped me with a robust understanding of core computer science principles, including data structures, algorithms, computer networks, and operating systems. Additionally, I have a comprehensive background in web development, databases, and programming languages such as Java, C, and C++. I have proactively expanded my skill set by taking supplementary courses in data science and machine learning, allowing me to analyze complex data and develop predictive models. My proficiency in full-stack web development using technologies like Node.js, coupled with experience in both SQL and NoSQL databases such as MongoDB, has provided me with practical skills in building web applications. I am also well-versed in Python programming, which I learned through Coding Ninjas. As I progress in my education, I am currently focusing on enhancing my expertise in user interface and user experience (UI/UX) design, understanding the importance of creating user-friendly and visually appealing interfaces. With a strong academic foundation, practical skills in software development and data analysis, and a growing interest in UI/UX design, I am poised to make a meaningful contribution in the dynamic world of technology. I am eager to leverage my knowledge and skills to excel in roles that require creativity, problem-solving, and a passion for innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmehar-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="harmehar-kaur" /> </p>
+
+- 🔭 I’m currently working on **Steady**
 
 - 🌱 I’m currently learning **MEAN, Bootstrap, SCSS**
 
