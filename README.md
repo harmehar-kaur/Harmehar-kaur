@@ -5,7 +5,9 @@
 
 <p align="justify">As I progress in my education, I am currently focusing on enhancing my expertise in user interface and user experience (UI/UX) design, understanding the importance of creating user-friendly and visually appealing interfaces. With a strong academic foundation, practical skills in software development and data analysis, and a growing interest in UI/UX design, I am poised to make a meaningful contribution to the dynamic world of technology. I am eager to leverage my knowledge and skills to excel in roles that require creativity, problem-solving, and a passion for innovation.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harmehar-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="harmehar-kaur" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=harmehar-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="harmehar-kaur" /> 
+</p>
 
 - 🔭 I’m currently working on **Steady**
 
