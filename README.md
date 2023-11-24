@@ -17,11 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/harmehar-kaur-8802b1239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harmehar-kaur-8802b1239/" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harmehar-kaur-8802b1239/" target="blank">
+  ![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
+</a>
 
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]
-<a href="https://instagram.com/https://www.linkedin.com/in/harmehar-kaur-8802b1239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/harmehar-kaur-8802b1239/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/harmehar-kaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harmehar-kaur/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.linkedin.com/in/harmehar-kaur-8802b1239/" target="blank">
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+</a>
+
+<a href="https://www.leetcode.com/https://leetcode.com/harmehar-kaur/" target="blank">
+  ![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)]
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
