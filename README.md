@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Harmehar-Kaur](https://github.com/Harmehar-kaur/harmeharPort)
 
-- 🌱 I’m currently learning **Cyber Security And Express.js**
+- 🌱 I’m currently learning **How to develop secure software?**
 
-- 💬 Ask me about **Express.js,Node.js**
+- 💬 Ask me about **Security Principles**
 
 - 📫 How to reach me **harmeharkaurhk72@gmail.com**
 
