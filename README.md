@@ -2,9 +2,6 @@
 <h3 align="center">A fresher with interest in Back-end development, Data Science, Machine Learning and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmehar-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="harmehar-kaur" /> </p>
-### 🛡️ TryHackMe Badge
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3262096.png)
 
 - 🔭 I’m currently working on [Harmehar-Kaur](https://github.com/Harmehar-kaur/harmeharPort)
 
